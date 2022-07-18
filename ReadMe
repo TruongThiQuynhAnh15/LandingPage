@@ -1,0 +1,10 @@
+// Đẩy code lên //
+git add . 
+git commit -m "thứ update"
+git push origin main
+
+// Lấy code về //
+git pull origin main
+
+Lưu ý : 
+- Đẩy code mình lên trước khi lấy code về nếu không sẽ bị mất code chưa đẩy lên
